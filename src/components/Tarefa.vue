@@ -6,6 +6,7 @@
             </div>
             <div class="column">
                 <Cronometro :tempoEmSegundos="tarefa.duracaoEmSegundos"/>
+                <p>teste </p>
             </div>
         </div>
     </Box>
